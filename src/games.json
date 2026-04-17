@@ -1,0 +1,83 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "tags": ["Logic", "Numbers"]
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "A fast-paced puzzle game inspired by Tetris.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "url": "https://hextris.io/",
+    "category": "Arcade",
+    "tags": ["Puzzle", "Fast-paced"]
+  },
+  {
+    "id": "little-alchemy",
+    "title": "Little Alchemy",
+    "description": "Combine elements to create the world from scratch.",
+    "thumbnail": "https://picsum.photos/seed/alchemy/400/300",
+    "url": "https://littlealchemy.com/",
+    "category": "Puzzle",
+    "tags": ["Sandbox", "Discovery"]
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game about baking cookies.",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "category": "Idle",
+    "tags": ["Clicker", "Cookies"]
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball down a series of slopes and obstacles.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "url": "https://slope.io/",
+    "category": "Action",
+    "tags": ["Fast", "Ball"]
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Help the chicken cross the road!",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "url": "https://www.crossyroad.com/",
+    "category": "Arcade",
+    "tags": ["Endless", "Cute"]
+  },
+  {
+    "id": "wordle",
+    "title": "Wordle",
+    "description": "Guess the hidden 5-letter word in six tries.",
+    "thumbnail": "https://picsum.photos/seed/wordle/400/300",
+    "url": "https://www.nytimes.com/games/wordle/index.html",
+    "category": "Puzzle",
+    "tags": ["Word", "Daily"]
+  },
+  {
+    "id": "tetris-classic",
+    "title": "Classic Tetris",
+    "description": "The timeless block-stacking puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Arcade",
+    "tags": ["Classic", "Puzzle"]
+  },
+  {
+    "id": "stack",
+    "title": "Stack",
+    "description": "Stack the blocks as high as you can to build a tower.",
+    "thumbnail": "https://picsum.photos/seed/stackgame/400/300",
+    "url": "https://www.stack.games/",
+    "category": "Arcade",
+    "tags": ["Timing", "Minimal"]
+  }
+]
